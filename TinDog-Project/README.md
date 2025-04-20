@@ -1,7 +1,11 @@
-# TinDog Project
+# Tindog
 
-HINT: To fiure out which Bootstrap components/snippets are used. Refer to the PDF below:
-https://github.com/appbrewery/tindog/blob/main/Bootstrap-snippets.pdf
+Tindog is a fun and engaging dating site for dogs. This project includes the initial HTML structure and CSS styling to create a responsive and visually appealing web application.
+
+## Features
+
+- **HTML Structure**: The main HTML file includes a header, main content, and footer sections.
+- **CSS Styling**: Implemented CSS for layout, colors, fonts, and responsiveness to ensure compatibility across different browsers and devices.
 
 ## SVGs:
 
