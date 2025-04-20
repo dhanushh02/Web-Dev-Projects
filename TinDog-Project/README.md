@@ -1,6 +1,6 @@
 # Tindog
 
-Tindog is a fun and engaging dating site for dogs. This project includes the initial HTML structure and CSS styling to create a responsive and visually appealing web application.
+Tindog is a fun and engaging dating site for dogs. This project includes the HTML structure and CSS styling to create a responsive and visually appealing web application.
 
 ## Features
 
